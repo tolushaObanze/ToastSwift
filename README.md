@@ -10,4 +10,5 @@ Thread safe Popover info view.
   * For iPhoneX looks like popover view with rounded corners
 
 **Important:**
-Used my `UIView+Additions.swift` lib to add constraints
+
+Use my `UIView+Additions.swift` lib to add constraints
