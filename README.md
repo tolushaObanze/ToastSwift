@@ -8,3 +8,6 @@ Thread safe Popover info view.
 * Fully adopted for iPhoneX:
   * For Regular iphone have full width of the screen
   * For iPhoneX looks like popover view with rounded corners
+
+**Important:**
+Used my `UIView+Additions.swift` lib to add constraints
